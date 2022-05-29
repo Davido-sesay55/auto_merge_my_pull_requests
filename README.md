@@ -23,6 +23,7 @@
 
 ---
 
+#code changes to the master
 # Auto merge my pull requests
 
 A GitHub Action to automatically merge pull requests on my repositories if:
